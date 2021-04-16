@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranjana-Kambhammettu
 - 👀 I’m interested in coding, definitely want to hack some day :)
-- 🌱 I’m currently learning git, C and JS ;)
+- 🌱 I’m currently learning git, C and Flutter ;)
 - 💞️ I’m looking to collaborate on any C++ or C project
 - 📫 How to reach me : This is top secret sshhh :D
 
