@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ranjana Kambhammettu
 - 👀 I’m interested in coding, definitely want to hack some day :)
-- 🌱 I’m currently learning git, C and Java ;)
-- 💞️ I’m looking to collaborate on any C++ or C project
+- 🌱 I’m currently learning JS, Python and Solidity ;)
+- 💞️ I’m looking to collaborate on any C++, C, Java, Python or a Web Dev project
 - 📫 How to reach me : This is a link to all my accounts: https://linktr.ee/ranjanakambhammettu
 
 <!---
